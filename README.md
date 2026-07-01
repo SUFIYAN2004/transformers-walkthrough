@@ -6,7 +6,7 @@ A highly interactive, beautifully designed, single-page visualization that break
 
 This repository hosts a clean, zero-dependency implementation of the complete Large Language Model (LLM) lifecycle, mapping theoretical machine learning concepts directly to interactive web components and production-grade code snippets (PyTorch, PEFT, LangChain, LangGraph, and `llama.cpp`).
 
-🎥 **Live Demo:** [Insert Your Hosted Link Here (e.g., https://SUFIYAN2004.github.io/transformers-walkthrough)]
+🎥 **Live Demo:** https://SUFIYAN2004.github.io/transformers-walkthrough
 
 ---
 
